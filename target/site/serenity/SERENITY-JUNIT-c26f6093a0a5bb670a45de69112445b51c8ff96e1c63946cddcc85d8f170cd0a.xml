@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="send message to team" skipped="0" tests="2" time="58.44" timestamp="2022-01-07 12:13:46"><testcase name="send messages with required fields"/><testcase name="send empty message body"/></testsuite>

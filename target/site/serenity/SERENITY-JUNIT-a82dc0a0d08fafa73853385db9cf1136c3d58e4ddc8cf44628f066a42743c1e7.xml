@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Accounts administration" skipped="0" tests="2" time="56.37" timestamp="2022-01-07 12:14:51"><testcase name="Register customer"/><testcase name="successful login"/></testsuite>
