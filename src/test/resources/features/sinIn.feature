@@ -1,4 +1,7 @@
 Feature: Accounts administration
+  I as a customer
+  I want to be able to register and access my account
+  To buy products offered by the website
 
   Scenario: Register customer
     Given the customer is on the login page
