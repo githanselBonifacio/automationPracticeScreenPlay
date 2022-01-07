@@ -3,7 +3,7 @@ Feature: Accounts administration
   I want to be able to register and access my account
   To buy products offered by the website
 
-  Scenario: Register customer
+  Scenario: register customer
     Given the customer is on the login page
     When the customer enter his email and send register
     And fill out the registration form with the required fields
